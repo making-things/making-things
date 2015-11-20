@@ -1,23 +1,39 @@
 #maintitle {
-    height:600px;
+    height:40rem;
     text-align:Center;
     background:lightgrey;
     width:100%;
     border-bottom: solid grey 3px;
 }
 #maintitle h1 {
-        line-height:600px;
+        line-height:40rem;
 }
 #maincontent {
     text-align:center;
     background:lightgreen;
     width:62.5rem;
     margin:0 auto;
+    height:30rem;
+}
+
+/*Newsletter */
+#newsletter {
+    height:15rem;
+    background:orange;
+}
+#signup {
+    padding-top:75px;
+    height:50px;
+}
+
+/* Footer */
+.footerlink {
+    height:20rem;
 }
 #footer {
     width:100%;
     background:lightgrey;
-    height:350px;
+    height:25rem;
     text-align:center;
 }
 #footer h3 {
@@ -35,7 +51,4 @@
 #footright {
     background-color:darkseagreen;
     
-}
-.linkblock {
-    height:150px;
 }
