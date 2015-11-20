@@ -1,0 +1,10 @@
+#maintitle {
+    height:600px;
+    text-align:Center;
+    background:lightgrey;
+    width:100%;
+    border-bottom: solid grey 3px;
+}
+#maintitle h1 {
+        line-height:600px;
+}
